@@ -1,0 +1,31 @@
+_repo: Nouveaux-Contes-a-Ninon_8416
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8416'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+tableOfContents: 'A Ninon -- Contes: Un bain. Les fraises. Le grand Michu. Le jeûne.
+  Les épaules de la marquise. Mon voisin Jacques. Le paradis des chats. Lili. La légende
+  du Petit-Manteau bleu de l''amour. Le forgeron. Le chômage. Le petit village --
+  Souvenirs -- Les quatre journées de Jean Gourdon: Printemps. Été. Automne. Hiver.'
+title: Nouveaux Contes à Ninon
+url: http://www.gutenberg.org/ebooks/8416
